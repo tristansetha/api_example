@@ -16,7 +16,7 @@ python manage.py migrate
 ```
 * creating super user
 ```
-python createsuperuser
+python manage.py createsuperuser
 ```
 
 
