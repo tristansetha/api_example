@@ -31,3 +31,11 @@ python manage.py migrate
 serializer deserializes the combination of lists and dictionaries into the application object/model
 Translates to and from JSON
 
+### Starting server
+
+* Start virtual enviroment
+* CD into api_example
+* Run:
+```
+python manage.py runserver
+```
